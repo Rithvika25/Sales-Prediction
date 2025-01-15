@@ -1,1 +1,4 @@
 # Sales-Prediction
+This machine learning project focuses on predicting product sales based on key marketing factors such as advertising expenditure, target audience segments, and the platforms used for promotion. By analyzing these variables, the model aims to provide actionable insights that can help businesses optimize their marketing strategies and improve sales outcomes.
+
+The project involves data preprocessing to clean and prepare the dataset, exploratory data analysis to uncover trends and relationships, and the application of machine learning models to predict sales with high accuracy. This repository also includes visualizations and recommendations to interpret the model's results effectively, making it a valuable tool for businesses seeking data-driven decisions in marketing and sales.
